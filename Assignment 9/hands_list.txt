@@ -1,0 +1,29 @@
+------------------------ start of hand ---------------------------
+K HEARTS
+Q SPADES
+5 CLUBS
+4 SPADES
+A DIAMONDS
+------------------------- end of hand ----------------------------
+------------------------ start of hand ---------------------------
+Q CLUBS
+J HEARTS
+7 DIAMONDS
+6 CLUBS
+4 CLUBS
+------------------------- end of hand ----------------------------
+------------------------ start of hand ---------------------------
+K CLUBS
+9 DIAMONDS
+9 CLUBS
+8 SPADES
+2 CLUBS
+------------------------- end of hand ----------------------------
+------------------------ start of hand ---------------------------
+Q DIAMONDS
+Q HEARTS
+J CLUBS
+10 DIAMONDS
+7 SPADES
+------------------------- end of hand ----------------------------
+Player 4 has the best hand.
